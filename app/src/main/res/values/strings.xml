@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+
+    <string name="toast_login_success">Success Login</string>
+    <string name="toast_login_wrong_data">Success Login</string>
+    <string name="toast_login_invalid_email">Invalid Email</string>
+    <string name="toast_login_invalid_password">Invalid Password</string>
+
+
+</resources>
